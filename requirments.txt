@@ -1,0 +1,7 @@
+boto3
+botocore
+json
+logging
+pytest
+pytest-env
+moto
